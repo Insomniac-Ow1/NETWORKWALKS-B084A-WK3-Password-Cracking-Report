@@ -1,0 +1,8 @@
+flag1:
+nw{cybersecurity_flag_captured_2608}
+
+flag2:
+nw{networkwalks_persistence_jtr_270521}
+
+flag3:
+nw{networkwalks_flag_260821_1}
