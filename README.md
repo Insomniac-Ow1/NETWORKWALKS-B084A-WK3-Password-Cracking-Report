@@ -8,7 +8,7 @@
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Pentester Name (Cybersecurity Professional)** | **Omar Amin**                                                                                                                                         |
 | **Program/Batch**                               | B084A-Networkwalks                                                                                                                                    |
-| **Date**                                        | [November 20th 2026]                                                                                                                                  |
+| **Date**                                        | November 20th 2026                                                                                                                                    |
 | **Modules completed**                           | W3-PM1 (Password Cracking with John the Ripper & Johnny)<br>W3-PM2 (Password Cracking with Networkwalks Hash Calculator & Password Cracker)           |
 | **Client/Target**                               | Sample password-protected PDF files provided by Networkwalks for this lab exercise (`My Locked PDF1.pdf`, `My Locked PDF2.pdf`, `My Locked PDF3.pdf`) |
 | **Permission secured from client?**             | Yes – the locked PDF files were supplied by Networkwalks specifically for this practical exercise                                                     |
